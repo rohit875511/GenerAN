@@ -1,7 +1,10 @@
 # GenerAN
 The goal of this project was to fine-tune Tooncrafter's model to produce more realistic and smooth facial expressions. GenerAN is currently being marketed commercially, and has recieved written forms of interest from multiple animation studios. GenerAN generates the in-between frames for a given input and output frame.
 
+## Product Video:
 [![Watch Demo](https://img.youtube.com/vi/-GBcWIkIFp4/0.jpg)](https://youtu.be/-GBcWIkIFp4)
+
+https://youtu.be/-GBcWIkIFp4
 
 Try out Tooncrafter's model here: https://replicate.com/fofr/tooncrafter
 
