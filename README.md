@@ -34,10 +34,15 @@ Landmarks and emotion were stored alongside frame in this format:
 
 {
   "clip_id": "clip01",
+  
   "start_frame": "frame_0001.png",
+  
   "end_frame": "frame_0048.png",
+  
   "middle_frames": ["frame_0002.png", ..., "frame_0047.png"],
+  
   "landmarks": {...},
+  
   "emotion": {...}
 }
 ## Data Augmentation
