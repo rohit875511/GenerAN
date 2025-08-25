@@ -10,7 +10,7 @@ Try out Tooncrafter's model here: https://replicate.com/fofr/tooncrafter
 
 ## Data Collection
 
-Base # of clips gathered: ~1500
+Base # of clips gathered: ~1200
 
 Clip lengths: ~2 seconds (~48 frames at 24 fps)
 
@@ -47,7 +47,7 @@ Landmarks and emotion were stored alongside frame in this format:
 }
 ## Data Augmentation
 
-Utilizing data augmentation techniques the previous # of training examples increased to ~9,000 clips. 
+Utilizing data augmentation techniques the previous # of training examples increased to ~8,500 clips. 
 
 ### Spatial Augmentation
 
@@ -59,11 +59,11 @@ Random crop / zoom ±5–10%: simulates minor framing changes and ensures model 
 
 ### Photometric Augmentation
 
-Brightness / contrast ±20%: mimics different lighting conditions.
+Brightness ±20%: mimics different lighting conditions.
 
-Hue / saturation jitter ±5–10%: simulates subtle color variations across clips.
+Saturation ±5–10%: simulates subtle color variations across clips.
 
-Mild Gaussian blur or noise: adds small visual imperfections to improve robustness.
+Mild Gaussian blur: adds small visual imperfections.
 
 ### Temporal Augmentation
 
