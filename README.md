@@ -4,7 +4,7 @@ The goal of this project was to fine-tune Tooncrafter's model to produce more re
 ## Product Video:
 [![Watch Demo](https://img.youtube.com/vi/-GBcWIkIFp4/0.jpg)](https://youtu.be/-GBcWIkIFp4)
 
-https://youtu.be/-GBcWIkIFp4
+Link: https://youtu.be/-GBcWIkIFp4
 
 Try out Tooncrafter's model here: https://replicate.com/fofr/tooncrafter
 
