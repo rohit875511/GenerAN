@@ -3,7 +3,7 @@ The goal of this project was to fine-tune Tooncrafter's model to produce more re
 
 For parties interested in beta-testing or purchase contact: rohitnsundaram@gmail.com
 
-##Recently Added
+## Recently Added
 Updated model to improve frame coherence using binary tree temporal conditioning
 
 ## Product Video:
